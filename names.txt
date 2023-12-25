@@ -1,4 +1,7 @@
-Harry
-Draco
-Ron
-Hermione
+name,home
+Harry,US
+Draco,Africa
+Ron,Bhutan
+Hermione,India
+Manan,India
+Jainam,India
